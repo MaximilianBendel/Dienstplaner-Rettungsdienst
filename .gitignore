@@ -1,0 +1,26 @@
+# Node.js (für Vue.js / Astro)
+node_modules/
+dist/
+build/
+
+# Java (Maven/Gradle)
+target/
+build/
+*.class
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# VS Code Einstellungen (optional, falls du diese nicht ins Repo möchtest)
+.vscode/
+
+# Docker
+docker-compose.override.yml
+
+# Allgemeine Systemdateien
+.DS_Store
+Thumbs.db

@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "frontend"
+		},
+		{
+			"path": "python-service"
+		},
+		{
+			"path": "docs"
+		},
+		{
+			"path": "docker"
+		},
+		{
+			"path": "backend"
+		}
+	],
+	"settings": {}
+}
